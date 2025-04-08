@@ -470,9 +470,6 @@ p {
 #hero {
   width: 100%;
   height: 80vh;
-  background: linear-gradient(#37517ead, #37517eb9),
-    url('/assets/img/fondo.jpg');
-
   background-size: cover;
   background-position: center;
 }
